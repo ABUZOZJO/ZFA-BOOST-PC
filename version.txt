@@ -1,2 +1,2 @@
-2026.1.0
+2026.2.0
 https://github.com/ABUZOZJO/ZFA-BOOST-PC/releases/latest/download/ZFA_BOOST_PC_Setup_v2026.exe
